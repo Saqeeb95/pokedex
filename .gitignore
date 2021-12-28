@@ -1,0 +1,4 @@
+# We don't need to commit the dataset since it gets downloaded by the jupyter notebook
+pokemon-generation-one/
+# We also don't want our kaggle token to be public
+kaggle.json
